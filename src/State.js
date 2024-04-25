@@ -15,7 +15,7 @@ import React from "react";
      setState() is a method that is used to update the state of a component.
 
  */
-export default class State extends React.Component {
+export default class  extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
